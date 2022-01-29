@@ -1,0 +1,28 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color:rgb(0, 0, 0, 0.5);
+    text-align: center;
+    letter-spacing: 0.5em;
+    top:15%;
+    background: linear-gradient(to right, rgb(0, 255, 255), rgb(255, 0, 212));
+}
+
+h1{
+    font: 600 3.5em 'Raleway', sans-serif;
+    /* font: weight size font-family */
+    text-transform: uppercase;
+}
+
+h2{
+    font: 900 1.5em 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+h3{
+    font: 1000 1em 'Raleway', sans-serif;
+    letter-spacing: 0;
+}
+
+input:hover{
+    cursor: pointer;
+}
